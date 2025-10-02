@@ -1,2 +1,3 @@
 # AIORI-2-HACKATHON-PROJECTS
-This repository will contain the code and resources for the AIORI-2 hackathon that will be developed during the AIORI-2
+Star Coders
+Problem Statement 15: Supervised Learning for City-Level IP Geolocation
